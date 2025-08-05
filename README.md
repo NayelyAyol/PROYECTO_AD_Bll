@@ -1,9 +1,9 @@
 # PROYECTO_AD_Bll
-#Integrantes
+# Integrantes
 # Alejandro Guanoluisa
 # Nayely Ayol
 # Oscar Vasquez
-# Carlos Simbala
+# Carlos Simbaña
 
 # Archivos csv:
 categoria_noticias.csv,
